@@ -15,6 +15,7 @@ Download Git: _ https://git-scm.com/downloads _
 >git checkout _name of the branch_ 
 4. After you have done your work push changes to your own forked repository 
 >git commit -am"comment"
+
 >git psuh
 5. Press "Pull Request" to send your changes to me, and I will merge them all 
 
