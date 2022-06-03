@@ -11,6 +11,7 @@ Download Git: _ https://git-scm.com/downloads _
 >git clone _link_
 3. create new branch to work on
 >git branch _name_ 
+
 >git checkout _name of the branch_ 
 4. After you have done your work push changes to your own forked repository 
 >git commit -am"comment"
